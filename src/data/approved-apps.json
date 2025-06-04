@@ -58,5 +58,245 @@
     "Supplier Name": "Zoom Video Communications",
     "TechnicalNotes": "<p>Staff use only.</p>",
     "InstructionalNotes": ""
+  },
+  {
+    "Product Name": "Google Workspace for Education",
+    "Rating": "PREFERRED",
+    "Trusted Apps Seal": false,
+    "Vetted": true,
+    "Certified": false,
+    "Supplier Name": "Google LLC",
+    "TechnicalNotes": "",
+    "InstructionalNotes": ""
+  },
+  {
+    "Product Name": "Google Chrome",
+    "Rating": "PREFERRED",
+    "Trusted Apps Seal": false,
+    "Vetted": true,
+    "Certified": false,
+    "Supplier Name": "Google LLC",
+    "TechnicalNotes": "",
+    "InstructionalNotes": ""
+  },
+  {
+    "Product Name": "Flipgrid",
+    "Rating": "APPROVED",
+    "Trusted Apps Seal": false,
+    "Vetted": true,
+    "Certified": false,
+    "Supplier Name": "Microsoft",
+    "TechnicalNotes": "",
+    "InstructionalNotes": ""
+  },
+  {
+    "Product Name": "Microsoft Office 365",
+    "Rating": "APPROVED",
+    "Trusted Apps Seal": false,
+    "Vetted": true,
+    "Certified": false,
+    "Supplier Name": "Microsoft",
+    "TechnicalNotes": "",
+    "InstructionalNotes": ""
+  },
+  {
+    "Product Name": "Microsoft Teams Meetings",
+    "Rating": "APPROVED",
+    "Trusted Apps Seal": false,
+    "Vetted": true,
+    "Certified": false,
+    "Supplier Name": "Microsoft",
+    "TechnicalNotes": "",
+    "InstructionalNotes": ""
+  },
+  {
+    "Product Name": "Canva for Education",
+    "Rating": "APPROVED",
+    "Trusted Apps Seal": false,
+    "Vetted": true,
+    "Certified": false,
+    "Supplier Name": "Canva",
+    "TechnicalNotes": "",
+    "InstructionalNotes": ""
+  },
+  {
+    "Product Name": "Google Arts and Culture",
+    "Rating": "APPROVED",
+    "Trusted Apps Seal": false,
+    "Vetted": true,
+    "Certified": false,
+    "Supplier Name": "Google LLC",
+    "TechnicalNotes": "",
+    "InstructionalNotes": ""
+  },
+  {
+    "Product Name": "Google Meet",
+    "Rating": "APPROVED",
+    "Trusted Apps Seal": false,
+    "Vetted": true,
+    "Certified": true,
+    "Supplier Name": "Google LLC",
+    "TechnicalNotes": "",
+    "InstructionalNotes": ""
+  },
+  {
+    "Product Name": "Be Internet Awesome",
+    "Rating": "APPROVED",
+    "Trusted Apps Seal": false,
+    "Vetted": true,
+    "Certified": false,
+    "Supplier Name": "Google LLC",
+    "TechnicalNotes": "",
+    "InstructionalNotes": ""
+  },
+  {
+    "Product Name": "YouTube",
+    "Rating": "APPROVED",
+    "Trusted Apps Seal": false,
+    "Vetted": true,
+    "Certified": false,
+    "Supplier Name": "Google LLC",
+    "TechnicalNotes": "",
+    "InstructionalNotes": ""
+  },
+  {
+    "Product Name": "Asana",
+    "Rating": "PREFERRED",
+    "Trusted Apps Seal": false,
+    "Vetted": true,
+    "Certified": false,
+    "Supplier Name": "Asana, Inc.",
+    "TechnicalNotes": "",
+    "InstructionalNotes": ""
+  },
+  {
+    "Product Name": "Read&Write for Google Chrome",
+    "Rating": "PREFERRED",
+    "Trusted Apps Seal": false,
+    "Vetted": false,
+    "Certified": false,
+    "Supplier Name": "Texthelp",
+    "TechnicalNotes": "",
+    "InstructionalNotes": ""
+  },
+  {
+    "Product Name": "Stickity",
+    "Rating": "DENIED",
+    "Trusted Apps Seal": false,
+    "Vetted": false,
+    "Certified": false,
+    "Supplier Name": "Stickity for Schools",
+    "TechnicalNotes": "<p>Privacy policy not meeting the standard</p>",
+    "InstructionalNotes": ""
+  },
+  {
+    "Product Name": "Microsoft MakeCode",
+    "Rating": "APPROVED",
+    "Trusted Apps Seal": false,
+    "Vetted": true,
+    "Certified": false,
+    "Supplier Name": "Microsoft",
+    "TechnicalNotes": "",
+    "InstructionalNotes": ""
+  },
+  {
+    "Product Name": "Gemini",
+    "Rating": "PREFERRED",
+    "Trusted Apps Seal": false,
+    "Vetted": true,
+    "Certified": false,
+    "Supplier Name": "Google LLC",
+    "TechnicalNotes": "",
+    "InstructionalNotes": ""
+  },
+  {
+    "Product Name": "Curipod",
+    "Rating": "PREFERRED",
+    "Trusted Apps Seal": false,
+    "Vetted": true,
+    "Certified": false,
+    "Supplier Name": "Curipod AS",
+    "TechnicalNotes": "",
+    "InstructionalNotes": ""
+  },
+  {
+    "Product Name": "Otter.ai",
+    "Rating": "UNDER REVIEW",
+    "Trusted Apps Seal": false,
+    "Vetted": true,
+    "Certified": false,
+    "Supplier Name": "Otter.ai, Inc.",
+    "TechnicalNotes": "",
+    "InstructionalNotes": ""
+  },
+  {
+    "Product Name": "MagicSchool",
+    "Rating": "PREFERRED",
+    "Trusted Apps Seal": true,
+    "Vetted": true,
+    "Certified": true,
+    "Supplier Name": "Magic School, Inc",
+    "TechnicalNotes": "",
+    "InstructionalNotes": ""
+  },
+  {
+    "Product Name": "SchoolAI",
+    "Rating": "PREFERRED",
+    "Trusted Apps Seal": true,
+    "Vetted": true,
+    "Certified": true,
+    "Supplier Name": "SchoolAI, Inc",
+    "TechnicalNotes": "",
+    "InstructionalNotes": ""
+  },
+  {
+    "Product Name": "Claude.ai",
+    "Rating": "PREFERRED",
+    "Trusted Apps Seal": false,
+    "Vetted": true,
+    "Certified": false,
+    "Supplier Name": "Anthropic",
+    "TechnicalNotes": "",
+    "InstructionalNotes": ""
+  },
+  {
+    "Product Name": "Applied Digital Skills",
+    "Rating": "PREFERRED",
+    "Trusted Apps Seal": false,
+    "Vetted": true,
+    "Certified": false,
+    "Supplier Name": "Google LLC",
+    "TechnicalNotes": "",
+    "InstructionalNotes": ""
+  },
+  {
+    "Product Name": "NotebookLM",
+    "Rating": "PREFERRED",
+    "Trusted Apps Seal": false,
+    "Vetted": true,
+    "Certified": false,
+    "Supplier Name": "Google LLC",
+    "TechnicalNotes": "",
+    "InstructionalNotes": ""
+  },
+  {
+    "Product Name": "Looker Studio",
+    "Rating": "PREFERRED",
+    "Trusted Apps Seal": false,
+    "Vetted": true,
+    "Certified": false,
+    "Supplier Name": "Google LLC",
+    "TechnicalNotes": "",
+    "InstructionalNotes": ""
+  },
+  {
+    "Product Name": "Google Gemini",
+    "Rating": "PREFERRED",
+    "Trusted Apps Seal": false,
+    "Vetted": false,
+    "Certified": true,
+    "Supplier Name": "Google LLC",
+    "TechnicalNotes": "",
+    "InstructionalNotes": ""
   }
 ]
