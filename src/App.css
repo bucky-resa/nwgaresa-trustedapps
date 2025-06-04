@@ -1,0 +1,164 @@
+:root {
+  --primary-bg: #ffffff;
+  --secondary-bg: #f8f9fa;
+  --primary-text: #333333;
+  --secondary-text: #666666;
+  --border-radius: 10px;
+  --shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+header {
+  margin-bottom: 2rem;
+}
+
+h1 {
+  color: var(--primary-text);
+  font-size: 2.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.filters {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.search-input,
+.rating-filter {
+  padding: 0.75rem 1rem;
+  border: 1px solid #ddd;
+  border-radius: var(--border-radius);
+  font-size: 1rem;
+}
+
+.search-input {
+  flex: 1;
+  min-width: 200px;
+}
+
+.rating-filter {
+  min-width: 150px;
+}
+
+.apps-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.5rem;
+}
+
+.app-card {
+  background: var(--primary-bg);
+  border-radius: var(--border-radius);
+  padding: 1.5rem;
+  box-shadow: var(--shadow);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.app-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+.app-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 1rem;
+}
+
+.app-header h2 {
+  font-size: 1.25rem;
+  margin: 0;
+  color: var(--primary-text);
+}
+
+.status-badge {
+  padding: 0.25rem 0.75rem;
+  border-radius: 15px;
+  font-size: 0.875rem;
+  font-weight: 500;
+}
+
+.preferred {
+  background: #e3f2fd;
+  color: #1976d2;
+}
+
+.approved {
+  background: #e8f5e9;
+  color: #2e7d32;
+}
+
+.denied {
+  background: #ffebee;
+  color: #c62828;
+}
+
+.under-review {
+  background: #fff3e0;
+  color: #ef6c00;
+}
+
+.supplier {
+  color: var(--secondary-text);
+  font-size: 0.875rem;
+  margin-bottom: 1rem;
+}
+
+.certification-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.badge {
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  font-weight: 500;
+}
+
+.trusted {
+  background: #e1f5fe;
+  color: #0288d1;
+}
+
+.vetted {
+  background: #f3e5f5;
+  color: #7b1fa2;
+}
+
+.certified {
+  background: #e8eaf6;
+  color: #3f51b5;
+}
+
+.notes {
+  font-size: 0.875rem;
+  color: var(--secondary-text);
+  padding: 0.75rem;
+  background: var(--secondary-bg);
+  border-radius: 4px;
+}
+
+@media (max-width: 768px) {
+  .container {
+    padding: 1rem;
+  }
+  
+  .filters {
+    flex-direction: column;
+  }
+  
+  .search-input,
+  .rating-filter {
+    width: 100%;
+  }
+}

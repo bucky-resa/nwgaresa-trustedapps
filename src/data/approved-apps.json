@@ -1,0 +1,62 @@
+[
+  {
+    "Product Name": "Canvas",
+    "Rating": "PREFERRED",
+    "Trusted Apps Seal": true,
+    "Vetted": true,
+    "Certified": true,
+    "Supplier Name": "Instructure",
+    "TechnicalNotes": "",
+    "InstructionalNotes": ""
+  },
+  {
+    "Product Name": "Google Drive",
+    "Rating": "PREFERRED",
+    "Trusted Apps Seal": false,
+    "Vetted": true,
+    "Certified": true,
+    "Supplier Name": "Google LLC",
+    "TechnicalNotes": "",
+    "InstructionalNotes": ""
+  },
+  {
+    "Product Name": "Kahoot!",
+    "Rating": "APPROVED",
+    "Trusted Apps Seal": true,
+    "Vetted": true,
+    "Certified": true,
+    "Supplier Name": "Kahoot!",
+    "TechnicalNotes": "",
+    "InstructionalNotes": ""
+  },
+  {
+    "Product Name": "Nearpod",
+    "Rating": "APPROVED",
+    "Trusted Apps Seal": false,
+    "Vetted": true,
+    "Certified": true,
+    "Supplier Name": "NEARPOD INC",
+    "TechnicalNotes": "",
+    "InstructionalNotes": ""
+  },
+  {
+    "Product Name": "Pear Deck",
+    "Rating": "APPROVED",
+    "Trusted Apps Seal": true,
+    "Vetted": true,
+    "Certified": true,
+    "Supplier Name": "GoGuardian",
+    "TechnicalNotes": "<p>Limited to Middle School Science</p>",
+    "InstructionalNotes": ""
+  },
+  {
+    "Product Name": "Zoom",
+    "Rating": "PREFERRED",
+    "Trusted Apps Seal": false,
+    "Vetted": true,
+    "Certified": false,
+    "Supplier Name": "Zoom Video Communications",
+    "TechnicalNotes": "<p>Staff use only.</p>",
+    "InstructionalNotes": ""
+  }
+]
